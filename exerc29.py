@@ -1,4 +1,6 @@
-num =int(input("Digite um valor :"))
-num2 =int(input("Digite outro valor :"))
-num3 =int(input("Digite um valor :"))
-num4 =int(input("Digite outro valor :"))
+n1 = float(input("digite a primeira nota "))
+n2 = float(input("digite a segunda  nota "))
+n3 = float(input("digite a terceira nota "))
+n4 = float(input("digite a quarta   nota "))
+M  = (n1+n2+n3+n4)/4
+print(M)
